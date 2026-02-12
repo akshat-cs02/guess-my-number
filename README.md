@@ -1,5 +1,13 @@
 # Guess My Number 🎯
 
+## 🌐 Live Demo
+👉 https://akshat-cs02.github.io/guess-my-number/
+
+---
+
+## 📌 Note
+Designed primarily for desktop view.
+
 A simple number guessing game built using HTML, CSS, and Vanilla JavaScript.
 
 ## 🚀 Features
